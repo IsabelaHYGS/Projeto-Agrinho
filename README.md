@@ -33,18 +33,19 @@ Impacto na saúde pública
 Reflexão final sobre a importância da consciência alimentar, incentivando a criatividade na cozinha e a adoção de práticas que valorizam cada parte do alimento.
 
 ### Rodapé (Footer):
-Link para a página do GitHub da autora, incentivando a ação: "Cozinhe com consciência, viva com propósito!".
+2025 Menos desperdício e mais ação!. Todos os direitos reservados. Cozinhe com consciência!
 
-Como Rodar o Projeto:
+### Como Rodar o Projeto:
 Clone ou faça o download do repositório.
 Abra o arquivo index.html em um navegador de sua escolha.
-Contribuições
-Se você deseja contribuir para este projeto, por favor, siga as etapas abaixo:
 
+### Contribuições
+Se você deseja contribuir para este projeto, por favor, siga as etapas abaixo:
 Faça um fork deste repositório.
 Crie uma branch com sua feature ou correção: git checkout -b minha-nova-receita.
 Faça o commit das suas mudanças: git commit -am 'Adiciona nova funcionalidade'.
 Envie a branch para o repositório remoto: git push origin minha-nova-receita.
 Abra um pull request.
-Licença
+
+###Licença
 Este projeto está licenciado sob a MIT License.
