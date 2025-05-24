@@ -1,0 +1,133 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f8f8;
+    color: #333;
+    line-height: 1.6;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+
+.impact-phrase {
+    background-color: #4CAF50; 
+    color: white;
+    text-align: center;
+    padding: 60px 20px;
+    margin-bottom: 30px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.impact-phrase h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3.5em;
+    margin: 0;
+    line-height: 1.2;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+
+.recipes-section {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 30px;
+}
+
+.recipe-card {
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    transition: transform 0.3s ease;
+}
+
+.recipe-card:hover {
+    transform: translateY(-5px);
+}
+
+.recipe-card img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    display: block;
+}
+
+.recipe-content {
+    padding: 20px;
+}
+
+.recipe-content h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.8em;
+    color: #2e7d32; 
+    margin-top: 0;
+}
+
+.recipe-content p {
+    font-size: 0.95em;
+    color: #555;
+}
+
+.recipe-content ul {
+    list-style: none;
+    padding: 0;
+}
+
+.recipe-content ul li {
+    background-color: #e8f5e9; 
+    padding: 5px 10px;
+    border-radius: 4px;
+    margin-bottom: 5px;
+    display: inline-block;
+    margin-right: 8px;
+    font-size: 0.85em;
+    color: #388e3c;
+    font-weight: bold;
+}
+
+.recipe-content a {
+    display: inline-block;
+    margin-top: 15px;
+    padding: 10px 20px;
+    background-color: #66BB6A; 
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+    font-weight: bold;
+}
+
+.recipe-content a:hover {
+    background-color: #4CAF50;
+}
+
+
+footer {
+    text-align: center;
+    padding: 30px 20px;
+    margin-top: 50px;
+    background-color: #333;
+    color: white;
+    font-size: 0.9em;
+}
+
+
+@media (max-width: 768px) {
+    .impact-phrase h1 {
+        font-size: 2.5em;
+    }
+    .recipes-section {
+        grid-template-columns: 1fr;
+    }
+}
+
+@media (max-width: 480px) {
+    .impact-phrase h1 {
+        font-size: 1.8em;
+    }
+}
