@@ -47,5 +47,5 @@ Faça o commit das suas mudanças: git commit -am 'Adiciona nova funcionalidade'
 Envie a branch para o repositório remoto: git push origin minha-nova-receita.
 Abra um pull request.
 
-###Licença
+### Licença
 Este projeto está licenciado sob a MIT License.
