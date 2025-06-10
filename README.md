@@ -33,7 +33,14 @@ Impacto na saúde pública
 Reflexão final sobre a importância da consciência alimentar, incentivando a criatividade na cozinha e a adoção de práticas que valorizam cada parte do alimento.
 
 ### Rodapé (Footer):
-2025 Menos desperdício e mais ação!. Todos os direitos reservados. Cozinhe com consciência!
+Referências
+https://pixabay.com/pt/
+https://www.tudogostoso.com.br/noticias/reaproveitamento-de-alimentos-a6076.htm
+https://www.larissacozinha.com/blogdicas/pesto-brocolis
+https://blog.sitedosorganicos.com.br/blog/folhas-de-cenoura
+https://alimentesebem.sesisp.org.br/arquivos/receita/doce-de-casca-de-abobora
+https://www.tuasaude.com/esfoliante-de-cafe-para-o-corpo/
+2025 Menos desperdício e mais ação!. Todos os direitos reservados. Cozinhe com consciência!. Isabela Harumi
 
 ### Como Rodar o Projeto:
 Clone ou faça o download do repositório.
