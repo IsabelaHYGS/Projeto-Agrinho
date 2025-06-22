@@ -36,7 +36,7 @@ Reflexão final sobre a importância da consciência alimentar, incentivando a c
 Referências
 https://pixabay.com/pt/
 
-2025 Menos desperdício e mais ação!. Todos os direitos reservados. Cozinhe com consciência!. Isabela Harumi
+2025 Menos desperdício e mais ação!. Todos os direitos reservados. Cozinhe com consciência!. 
 
 ### Como Rodar o Projeto:
 Clone ou faça o download do repositório.
